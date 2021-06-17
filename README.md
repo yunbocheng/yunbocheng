@@ -1,5 +1,5 @@
 
- ## hi 我是程云博同学。 扫码关注【Github推荐】持续分享好玩、有趣、又沙雕的开源项目!
+ ## hi 我是程云博同学。 扫码关注【Java学术趴】
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=shaoxiongdu">
   <img align="center" src="https://gitee.com/YunboCheng/imageBad/raw/master/image/20210617181918.png" />
 </a>
