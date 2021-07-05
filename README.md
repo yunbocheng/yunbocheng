@@ -22,7 +22,7 @@
 
 <br>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" style="border-radius :30px" />
 
 **Talking about myself:**
 
