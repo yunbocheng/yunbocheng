@@ -20,7 +20,7 @@
 
 <br>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" style="border-radius:30px" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" style="border-radius:20"/>
 
 **Talking about myself:**
 
