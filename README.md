@@ -30,4 +30,3 @@
 - 💬 Ask me about js library or xx 🥺
 - ⚡ Fun fact: coding or watch live
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=imtaotao&show_icons=true&hide_border=true)
