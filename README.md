@@ -8,8 +8,6 @@
 - 💬 Ask me about js library or xx 🥺
 - ⚡ Fun fact: coding or watch live
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" style="width=80%" />
-
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=chengyunbo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chengyunbo&layout=compact" />
 </a> 
