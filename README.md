@@ -1,24 +1,18 @@
 
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
-<div>
-    <div >
+
 **Talking about myself:**                       
 - 🔭 I’m currently working on Bytedance
 - 🌱 I’m currently learning Swift
 - 🤔 I’m looking for help with Algorithms 🐶
 - 💬 Ask me about js library or xx 🥺
 - ⚡ Fun fact: coding or watch live
-    </div>
 
-<div style="float: right">
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yunbocheng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Yunbocheng4379&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" />
 </a>
 
-
-</div>
-</div>
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=chengyunbo" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chengyunbo&layout=compact" />
