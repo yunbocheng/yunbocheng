@@ -1,6 +1,6 @@
 
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
-**⭐Talking about myself:**
+⭐**Talking about myself:**
 - 🎓 I am a college student
 - 🌎 I am going to university in Taiyuan
 - 🔍 I’m looking for help with Algorithms 🔥
@@ -20,6 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chengyunbo&layout=compact" />
 </a>
 <br>
+
 ⚡**最近在使用的编程语言**
 <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yunbocheng">
