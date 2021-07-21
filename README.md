@@ -1,7 +1,7 @@
 
  ## Hi 👋, I'm Cheng Yunbo。 you can call me【Java学术趴】
 <div>
-    <div style="float: left">
+    <div >
 **Talking about myself:**                       
 - 🔭 I’m currently working on Bytedance
 - 🌱 I’m currently learning Swift
