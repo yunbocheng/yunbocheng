@@ -26,7 +26,13 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=yunbocheng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Yunbocheng4379&hide_title=true&hide_border=false&line_height=20&theme=flag-india&locale=cn" />
 </a>
+<br>
 
+🚀 **入住的其他宫殿**
+
+💌 <a href="https://blog.csdn.net/chengbaobao520?spm=1000.2115.3001.5343">在景阳宫里创作CSDN</a>
+
+⛏️ <a href="https://juejin.cn/user/1812468410623982?utm_source=gold_browser_extension">在储秀宫里掘金</a>
 
 
 
