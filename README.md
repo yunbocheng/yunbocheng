@@ -8,7 +8,8 @@
 - ❤️ Fun fact: coding or watch live
 
 ✨ **Github数据报**
-<a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=yunbocheng">
+<br>
+<a href="https://github-readme-stats.vercel.app/api?cache_seconds=1800&">
 <img align="center" src="https://github-readme-stats.vercel.app/api?hide_title=true&cache_seconds=1800&username=yunbocheng&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&locale=cn&line_height=20" />
 </a>
 <br>
