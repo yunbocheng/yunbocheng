@@ -5,7 +5,7 @@
 - 🌎 I am going to university in Taiyuan
 - 🔍 I’m looking for help with Algorithms 🔥
 - 💬 Ask me about js library or java✏️
-- ❤️ Fun fact: coding or watch live
+- 💖 Fun fact: coding or watch live
 
 ✨ **Github数据报**
 <br>
