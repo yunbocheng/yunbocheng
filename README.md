@@ -38,7 +38,9 @@
 
 ⛱️ <a href="https://cloud.tencent.com/developer/user/5895312">在雅岚殿里逛云+社区</a> 🚬
 
+💰 **我的公众号**
 
+![](https://gitee.com/YunboCheng/imageBad/raw/master/image/%E7%A6%8F%E5%88%A9%E5%9B%BE.png)
 
 
 
