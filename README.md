@@ -40,7 +40,7 @@
 
 💰 **我的公众号**
 
-![](https://gitee.com/YunboCheng/imageBad/raw/master/image/%E7%A6%8F%E5%88%A9%E5%9B%BE.png)
+![](https://img-1259707064.cos.ap-beijing.myqcloud.com/202209041616342.png)
 
 
 
